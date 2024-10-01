@@ -548,7 +548,7 @@ CREATE TABLE `users_roles` (
 
 --
 -- Dumping data for table `users_roles`
---
+--  
 
 LOCK TABLES `users_roles` WRITE;
 /*!40000 ALTER TABLE `users_roles` DISABLE KEYS */;
